@@ -1,0 +1,20 @@
+C:\Users\fmi\Downloads\draw2018_1\VisualStudio2008-WinForms\bin\Debug\Draw.exe
+C:\Users\fmi\Downloads\draw2018_1\VisualStudio2008-WinForms\bin\Debug\Draw.pdb
+C:\Users\fmi\Downloads\draw2018_1\VisualStudio2008-WinForms\obj\Debug\Draw.csprojAssemblyReference.cache
+C:\Users\fmi\Downloads\draw2018_1\VisualStudio2008-WinForms\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\fmi\Downloads\draw2018_1\VisualStudio2008-WinForms\obj\Debug\Draw.MainForm.resources
+C:\Users\fmi\Downloads\draw2018_1\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\fmi\Downloads\draw2018_1\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\fmi\Downloads\draw2018_1\VisualStudio2008-WinForms\obj\Debug\Draw.exe
+C:\Users\fmi\Downloads\draw2018_1\VisualStudio2008-WinForms\obj\Debug\Draw.pdb
+C:\Users\fmi\Downloads\draw2018_1\VisualStudio2008-WinForms\obj\Debug\Draw.Properties.Resources.resources
+D:\Education Stuff\Student Materials\Uni Course Wisecracks\C#\GUI\bin\Debug\Draw.exe
+D:\Education Stuff\Student Materials\Uni Course Wisecracks\C#\GUI\bin\Debug\Draw.pdb
+D:\Education Stuff\Student Materials\Uni Course Wisecracks\C#\GUI\obj\Debug\Draw.csprojAssemblyReference.cache
+D:\Education Stuff\Student Materials\Uni Course Wisecracks\C#\GUI\obj\Debug\Draw.Properties.Resources.resources
+D:\Education Stuff\Student Materials\Uni Course Wisecracks\C#\GUI\obj\Debug\Draw.DoubleBufferedPanel.resources
+D:\Education Stuff\Student Materials\Uni Course Wisecracks\C#\GUI\obj\Debug\Draw.MainForm.resources
+D:\Education Stuff\Student Materials\Uni Course Wisecracks\C#\GUI\obj\Debug\Draw.csproj.GenerateResource.cache
+D:\Education Stuff\Student Materials\Uni Course Wisecracks\C#\GUI\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+D:\Education Stuff\Student Materials\Uni Course Wisecracks\C#\GUI\obj\Debug\Draw.exe
+D:\Education Stuff\Student Materials\Uni Course Wisecracks\C#\GUI\obj\Debug\Draw.pdb
