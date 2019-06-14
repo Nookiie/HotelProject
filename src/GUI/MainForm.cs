@@ -134,7 +134,7 @@ namespace Draw
                 return;
             }
 
-            if (!radioSpecial.Checked && !radioOptimal.Checked && !radioExceptClimb.Checked && !radioExceptElevator.Checked)
+            if (!radioSpecial.Checked && !radioOptimal.Checked && !radioExceptClimb.Checked && !radioExceptElevator.Checked && !radioExceptWalk.Checked)
             {
                 Error("Please Select an Algorithm");
                 return;

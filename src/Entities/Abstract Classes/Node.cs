@@ -12,8 +12,9 @@ namespace Draw.src.Entities
         public int Y { get; set; } // Y Coordinates
         public int Z { get; set; } // Floor
         public int Depth { get; set; } = -1;
-        public double Distance { get; set; } = Double.MaxValue;
+        public double DistanceToGoal { get; set; } = 0;
         public bool IsTested { get; set; }
+        public bool IsExpanded { get; set; }
 
         public List<Connection> Links { get; set; } = new List<Connection>();
         

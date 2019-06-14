@@ -14,6 +14,7 @@ namespace Draw.src.Entities
     public class Room : Node
     {
         public RoomType Type { get; set; }
+        public Room Parent { get; set; }
 
         public Room(string name, RoomType type) : base(name)
         {
@@ -30,6 +31,11 @@ namespace Draw.src.Entities
                 return;
             else
                 Console.WriteLine("No room type identified, choosing default value: Normal");
+        }
+
+        public override void AddLink(Connection link)
+        {
+            base.AddLink(link);
         }
     }
 }
